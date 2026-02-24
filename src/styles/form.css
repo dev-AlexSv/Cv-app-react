@@ -1,0 +1,15 @@
+form {
+    padding: 20px;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 40%;
+}
+
+#fcon {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+}
